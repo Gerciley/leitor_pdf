@@ -20,53 +20,55 @@ Antes de usar o Extrator de Dados, certifique-se de ter instalado os seguintes p
 - Python 3.x
 - Bibliotecas Python (listadas no arquivo `requirements.txt`, você pode instalá-las usando `pip`)
 
-## Instalação
 
-Contribuição
+## Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga os passos:
 
-Faça um fork deste repositório.
+## Faça um fork deste repositório.
 Crie uma branch com sua feature ou correção de bug: git checkout -b minha-feature
 Faça commit das mudanças: git commit -m 'Adicione uma nova feature'
 Envie suas alterações: git push origin minha-feature
 Abra um Pull Request.
 
-Contato
+## Contato
 Para entrar em contato com a equipe do projeto, envie um e-mail para [gerciley.fa@gmail.com].
 
-Status do Projeto
+## Status do Projeto
 Projeto inicial já em uso em linha de comando e executado no Google Colab ou diretamente da IDE de desenvolvimetno,
 projeto foi pensado em ateder uma necessidade pontual, contudo o projeto será estruturado para receber uma interface gráfica e oferecer mais opções, como por exemplo mostrar uma página
 e oferecer a opção do usuário selecionar e escolher quais dados deseja extrair.
 
-============================================================================================================================================================================================================
-pdf_reader
+===============================================================================================================================================================================================
+
+## pdf_reader
 Using the pdfplumber Library to Read PDF Files (Invoices), Extract Data, and Save it to a CSV File
 
-Invoice Data Extractor
+## Invoice Data Extractor
 The Invoice Data Extractor is a Python tool that allows you to extract information from PDF-format Service Invoices. It is designed to handle invoices that follow a specific pattern and are sent in RAR-compressed files.
 
-Features
+## Features
 Unpack RAR files containing multiple PDF-format Service Invoices.
 Extract specific information from the invoices, such as invoice number, date, amount, etc.
 Store the extracted data in an array.
 Export the data to a CSV file for further analysis.
-Prerequisites
+
+## Prerequisites
 Before using the Invoice Data Extractor, make sure you have installed the following prerequisites:
 
-Python 3.x
+## Python 3.x
 Python libraries (listed in the requirements.txt file; you can install them using pip)
 Installation
 Contribution
 Contributions are welcome! If you want to contribute to the project, follow these steps:
 
-Fork this repository.
+## Fork this repository.
 Create a branch for your feature or bug fix: git checkout -b my-feature
 Commit your changes: git commit -m 'Add a new feature'
 Push your changes: git push origin my-feature
 Open a Pull Request.
-Contact
+
+##Contact
 To get in touch with the project team, send an email to [gerciley.fa@gmail.com].
 
-Project Status
+## Project Status
 The initial project is already in use via the command line and can be run in Google Colab or directly from the development IDE. The project was initially designed to meet a specific need, but it will be structured to include a graphical interface and offer more options, such as displaying a page and allowing the user to select and choose which data to extract.
